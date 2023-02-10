@@ -1,0 +1,71 @@
+.down
+{height:600px;
+    width:100%;
+
+    background-color: rgb(255, 255, 255);
+}
+.downbox
+{    height:500px;
+    width:1200px;
+    background-color:#a91d1d;
+    position:relative;
+    left:125px;
+    top:25px;
+    background: #483EFF;
+border-radius: 21px;
+display: flex;
+}
+.downbox1
+{
+    height:100%;
+    width:35%;
+    background-color: #a91d1d;
+    
+}
+.downbox2
+{
+    height:100%;
+    width:65%;
+    background-color:#E5D8FF;
+}
+.downbox1cont
+{position:relative;
+    left:50px;
+    top:60px;
+    height:100px;
+    width:350px;
+    background-color: #2edb1e;
+}
+
+
+
+
+
+<!-- <div class="down">
+
+
+  <div class="downbox">
+       <div class="downbox1">
+           <div class="downbox1cont"><p>  YOUR INFO</p> </div>
+           <div class="downbox1cont"> <p>BOOKMARKS</p>   </div>
+           <div class="downbox1cont">  <p>SETTING</p>  </div>
+       </div>
+
+
+                  <div class="downbox2"> 
+    
+             </div>
+
+
+
+ </div> -->
+
+
+
+
+
+
+
+
+
+ https://github.com/Mayankkumar821/macroproject1.git
